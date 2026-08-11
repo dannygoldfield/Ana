@@ -1,6 +1,6 @@
 # Origin Story
 
-Ana emerged from a conversation with Anandana, an Indian filmmaker and academic who has worked with her mother, a professor in India, on efforts related to improving educational opportunities for girls in rural communities.
+Ana emerged from a conversation with Anandana, a filmmaker and academic in INdia who has worked with her mother, a professor in India, on efforts related to improving educational opportunities for girls in rural communities.
 
 Anandana described an observation that became the starting point for Ana: in some households where technology is scarce, the most capable device may remain with adults. Children may receive older or less capable devices, and girls may have the least access or none at all.
 

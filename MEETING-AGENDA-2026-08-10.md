@@ -7,11 +7,8 @@ The meeting is not intended to finalize hardware, business structure, or the mod
 
 ## 1. Return to the original observation
 
-A useful opening:
-
 > I keep thinking about what you told me: in some households where technology is scarce, the best device may stay with the adults, and girls may end up with the least capable device or none at all. It struck me that this could be another obstacle to education.
 
-Then listen.
 
 ## 2. Validate the problem
 
@@ -23,7 +20,7 @@ Questions:
 - Is device access a significant educational barrier or a secondary one?
 - What other barriers are more important?
 - Would personally owning a device change anything?
-- What am I misunderstanding about girls' education in rural India?
+- What is easily misunderstood about girls' education in rural India?
 
 ## 3. Test the Ana hypothesis
 
@@ -60,7 +57,7 @@ Discuss:
 
 Danny's proposed role:
 
-> I don't see myself as the education expert. My role is to bring together the right people in education, AI, hardware, design, and philanthropy and help turn the strongest version of the idea into something testable.
+> I don't see myself as the education expert. My role is to bring together the right people in education, AI, hardware, design, and funds and help turn the strongest version of the idea into something testable.
 
 Discuss whether Anandana and her mother want to shape the educational mission and field-research process.
 
@@ -68,7 +65,7 @@ Discuss whether Anandana and her mother want to shape the educational mission an
 
 Agree on a small number of actions.
 
-Possible next steps:
+Possible steps:
 
 1. Anandana and her mother document what they know about the device-access problem.
 2. Identify 5–10 girls, educators, or families for structured discovery interviews.

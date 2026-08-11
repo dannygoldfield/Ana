@@ -14,7 +14,7 @@ The current Ana hypothesis is differentiated by the combination of:
 1. Girls as the primary user.
 2. A device that personally belongs to one girl.
 3. Full normal operation without internet.
-4. Privacy designed into both computation and physical interaction.
+4. Privacy designed into computation and physical interaction.
 5. An educational philosophy centered on agency and independent thought.
 
 ## Strategic warning

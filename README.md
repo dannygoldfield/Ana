@@ -18,7 +18,7 @@ Ana combines five ideas:
 
 ## Project structure
 
-- **Ana**: the AI companion. The thing the girl talks to.
+- **Ana**: It's for girls!
 - **Project Ana**: the mission-driven initiative that develops and distributes it.
 - **Ana One**: the first hardware device.
 - **Ana Solar**: a rugged, solar-assisted version for communities with unreliable electricity.

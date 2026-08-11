@@ -40,10 +40,5 @@ The strongest current differentiation is the combination of:
 Validate the household device-access problem and educational need before locking the product.
 
 ### Danny's role
-Danny's primary role is convener: bring together educational expertise, technical talent, design talent, and philanthropic capital.
+Danny's primary role is convener: bring together educational expertise, technical talent, design talent, and capital.
 
-### Commercial opportunity
-Do not lead with commercialization. If commercial applications emerge, explore structures in which they strengthen rather than displace the mission.
-
-### IP
-Do not prematurely optimize for ownership percentages or patents. Meaningful contributors should be treated fairly, and governance should protect the mission.
