@@ -54,6 +54,7 @@ article {
   gap: 14px;
   width: calc(100vw - 13vw);
   max-width: 1040px;
+  margin-top: 72px;
 }
 
 .concept-gallery figure {
