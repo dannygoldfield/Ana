@@ -8,7 +8,7 @@ Anandana Kapur, a filmmaker and academic in India, and her mother, Professor Kir
 
 ### Guiding question
 
-> How do we put a trustworthy thinking companion into the hands of every girl, regardless of whether she has internet access?
+> How do we put a trustworthy thinking companion into the hands of girls, regardless of whether she has internet access?
 
 ### Guidelines
 
@@ -75,3 +75,5 @@ A girl can turn ANA on, privately ask questions, learn, create, and save ideas w
 ### Key product question
 
 > Does personally owning a private offline AI companion solve a meaningful educational problem that shared phones, tablets, and classroom hubs do not?
+
+Initial AI generated concepts for the device:
