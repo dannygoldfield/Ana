@@ -1,4 +1,4 @@
-# ANA: It's for girls!
+# ANA
 
 *Ask. Nurture. Aspire.*
 
