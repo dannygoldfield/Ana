@@ -8,7 +8,7 @@ Anandana Kapur, a filmmaker and academic in India, and her mother, Professor Kir
 
 ### Guiding question
 
-> How do we put a trustworthy thinking companion into the hands of girls, regardless of whether she has internet access?
+> How do we put a trustworthy thinking companion into the hands of girls, regardless of whether they have internet access?
 
 ### Guidelines
 
